@@ -2,14 +2,7 @@ Hi 👋 My name is John Selastin
 ==============================
 Frontend Web Developer
 ----------------------
-As a mechanical engineer with three years of experience working in core companies as a quality inspector, I've developed a keen eye for detail and a strong understanding of quality control processes. Recently, I made an exciting career switch into web development and am now a front-end web developer, with a passion for creating user-friendly web experiences.
-
-My background in mechanical engineering has provided me with a solid foundation in problem-solving, critical thinking, and analytical skills, which I now apply to my coding projects. I specialize in front-end web development, focusing on creating visually appealing and responsive user interfaces that provide seamless user experiences. 
-
-I have a strong command of HTML, CSS, and JavaScript, and I'm proficient in various front-end frameworks such as React. Using version control tools like Git, I collaborate with cross-functional teams to deliver high-quality web applications. 
-
-On GitHub, I showcase my projects, which demonstrate my proficiency in various technologies, including HTML, CSS, JavaScript, and popular front-end frameworks. I strive to maintain clean code, adhere to best practices, and continuously improve my projects through regular updates and enhancements. 
-
+Mechanical engineer with a passion for web development. Proficient in React, HTML, CSS, and JavaScript. Currently working as a front-end developer at a startup. Goal: to become a full-stack developer.
 I am enthusiastic about contributing to the web development community and sharing my progress. My repositories on GitHub reflect my web development journey and highlight my skills and experience. I'm open to collaborations and opportunities to further develop my skills and contribute to meaningful projects.
 
 *  🌍  I'm based in India
