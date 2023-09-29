@@ -3,6 +3,8 @@ Hi 👋 My name is John Selastin
 Frontend Web Developer
 ----------------------
 Mechanical engineer with a passion for web development. Proficient in React, HTML, CSS, and JavaScript. Currently working as a front-end developer at a startup. Goal: to become a full-stack developer.
+
+
 I am enthusiastic about contributing to the web development community and sharing my progress. My repositories on GitHub reflect my web development journey and highlight my skills and experience. I'm open to collaborations and opportunities to further develop my skills and contribute to meaningful projects.
 
 *  🌍  I'm based in India
