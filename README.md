@@ -8,7 +8,7 @@ I am a passionate and dedicated Full Stack Developer with over 3 years of experi
 
 I am committed to continuously learning and improving my skills, with a keen interest in keeping up with the latest technologies and best practices. I am highly focused on delivering clean and maintainable code, ensuring a seamless user experience while collaborating effectively with cross-functional teams
 
-*  🌍  I'm based in India
+*  🌍  I'm based in Dubai
 *  🖥️  See my portfolio at [John Selastin](http://selastin-portfolio.vercel.app/)
 *  ✉️  You can contact me at [selastinmathew@gmail.com](mailto:selastinmathew@gmail.com)
 *  🚀  I'm currently working on [Matt Engineering Solutions](https://www.mattengg.com/)
