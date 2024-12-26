@@ -1,17 +1,19 @@
 Hi 👋 My name is John Selastin
 ==============================
-Frontend Web Developer
+Full Stack Web Developer
 ----------------------
-Web development enthusiast with expertise in React, HTML, CSS, and JavaScript. Currently employed as a front-end developer at a startup, aspiring to transition into a full-stack developer role.
+### About
 
-Dedicated to actively participating in the web development community, I enjoy sharing my journey, progress, and insights. Explore my GitHub repositories to discover my evolving skills and hands-on experience. I am eager for collaborations and open to opportunities that facilitate continuous learning and meaningful project contributions.
+I am a passionate and dedicated Full Stack Developer with over 3 years of experience working with both front-end and back-end technologies. My expertise includes building scalable, efficient, and user-friendly applications. I specialize in JavaScript technologies such as React.js, Next.js, Node.js, and Express.js, with proficiency in both relational and non-relational databases like MongoDB and SQL.
+
+I am committed to continuously learning and improving my skills, with a keen interest in keeping up with the latest technologies and best practices. I am highly focused on delivering clean and maintainable code, ensuring a seamless user experience while collaborating effectively with cross-functional teams
 
 *  🌍  I'm based in India
-*  🖥️  See my portfolio at [John Selastin](http://selastin-portfolio.netlify.app/)
+*  🖥️  See my portfolio at [John Selastin](http://selastin-portfolio.vercel.app/)
 *  ✉️  You can contact me at [selastinmathew@gmail.com](mailto:selastinmathew@gmail.com)
 *  🚀  I'm currently working on [Matt Engineering Solutions](https://www.mattengg.com/)
-*  🧠  I'm learning Advanced React JS
-*  🤝  I'm open to collaborating on Frontend Web Development
+*  🧠  I'm learning Advanced System Design & React Native
+*  🤝  I'm open to collaborating on Full Stack Web Development 
 
 ### Skills
 
